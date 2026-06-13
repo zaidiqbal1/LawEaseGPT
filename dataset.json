@@ -1,0 +1,42 @@
+[
+  {
+    "keywords": ["fir", "first information report", "police", "register", "cognizable", "section 154", "crpc"],
+    "answer": "An FIR (First Information Report) is the initial document recorded by the police when they are informed about a cognizable offense. Under Section 154 of the Code of Criminal Procedure (CrPC), the police are bound to register an FIR if a cognizable offense has occurred."
+  },
+  {
+    "keywords": ["bail", "pre-arrest", "post-arrest", "section 498", "section 497", "crpc", "arrest"],
+    "answer": "Bail in Pakistan is primarily governed by the Code of Criminal Procedure (CrPC). Pre-arrest bail (bail before arrest) can be granted by a Sessions Court or High Court under Section 498 CrPC to protect an innocent person from malicious arrest. Post-arrest bail is handled under Section 497 CrPC."
+  },
+  {
+    "keywords": ["divorce", "khula", "family law", "muslim family laws ordinance", "haq mehr", "dower", "wife"],
+    "answer": "In Pakistan, under the Muslim Family Laws Ordinance 1961, a woman has the right to seek divorce (Khula) through the family courts. She must relinquish her dower (Haq Mehr) in most cases to obtain Khula if the husband does not consent to the divorce."
+  },
+  {
+    "keywords": ["cybercrime", "peca", "fia", "online fraud", "blackmail", "cyber-stalking", "unauthorized access"],
+    "answer": "The Prevention of Electronic Crimes Act (PECA) 2016 is the primary legislation regarding cybercrimes in Pakistan. It covers offenses like unauthorized access, cyber-stalking, blackmail, and online fraud. The FIA (Federal Investigation Agency) handles PECA violations."
+  },
+  {
+    "keywords": ["consumer", "defective", "faulty", "protection act", "consumer court", "legal notice"],
+    "answer": "Consumer Protection Councils in Pakistan deal with defective products and faulty services. A consumer must first send a legal notice to the manufacturer or service provider giving them 15 days to resolve the issue before filing a claim in the Consumer Court."
+  },
+  {
+    "keywords": ["constitution", "fundamental rights", "article 19", "freedom of speech", "article 10", "fair trial"],
+    "answer": "The Constitution of Pakistan 1973 guarantees several fundamental rights to its citizens. For instance, Article 19 ensures freedom of speech and expression (subject to reasonable restrictions), while Article 10A guarantees the right to a fair trial and due process."
+  },
+  {
+    "keywords": ["property", "transfer of property act", "sale deed", "registration", "land"],
+    "answer": "Under the Transfer of Property Act 1882 and the Registration Act 1908, the sale of immovable property value of Rs. 100 or upwards can only be made by a registered instrument (sale deed). Verbal agreements for immovable property transfers are generally not valid or enforceable in court."
+  },
+  {
+    "keywords": ["marriage", "nikah", "nikahnama", "registration", "union council", "muslim family law"],
+    "answer": "Under the Muslim Family Laws Ordinance 1961, every marriage (Nikah) must be registered with the relevant Union Council. A legally valid Nikahnama is proof of marriage. Failure to register can result in a fine or imprisonment, though the marriage itself remains valid under Islamic law."
+  },
+  {
+    "keywords": ["child custody", "hizanat", "guardian", "welfare of minor", "mother", "father"],
+    "answer": "In child custody disputes, the Guardian and Wards Act 1890 applies. The paramount consideration of the court is the 'welfare of the minor'. Generally, the mother has the right of Hizanat (custody) for a male child up to 7 years and a female child until puberty, after which the right transfers to the father, but the court ultimately decides based on the child's welfare."
+  },
+  {
+    "keywords": ["cheque bounce", "dishonour", "section 489-f", "ppc", "criminal", "fraud"],
+    "answer": "The dishonour of a cheque issued towards repayment of a loan or fulfillment of an obligation is a criminal offense in Pakistan under Section 489-F of the Pakistan Penal Code (PPC). It is punishable with imprisonment which may extend to three years, or with fine, or with both."
+  }
+]
